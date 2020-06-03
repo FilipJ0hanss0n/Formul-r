@@ -1,0 +1,30 @@
+body
+{
+	background-color:black;
+}
+
+title 
+{
+	width: 12px;
+}
+
+#fnamn,#enamn
+{
+	font-size:20px;
+	color:black;
+}
+
+br,label,p,h1
+{
+	color:white;
+}
+
+form
+{
+	color:white;
+}
+
+#fordon
+{
+	font-size:20px;
+}
